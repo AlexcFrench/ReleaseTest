@@ -21,7 +21,7 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "example" {
-  name     = "ResourceGroup-Release-1.0129"
+  name     = "ResourceGroup-Release-A"
   location = "UK South"
 }
 
