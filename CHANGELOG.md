@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.3](https://github.com/AlexcFrench/ReleaseTest/compare/v1.1.2...v1.1.3) (2023-09-12)
+
+
+### Bug Fixes
+
+* change B ([5a00a7f](https://github.com/AlexcFrench/ReleaseTest/commit/5a00a7f32126051c4a5c4f2f441bc0ffc892f255))
+* updated stuff ([0e0a538](https://github.com/AlexcFrench/ReleaseTest/commit/0e0a538c842e797e580575d7083626270c571c17))
+* updated stuff-B ([ca42df9](https://github.com/AlexcFrench/ReleaseTest/commit/ca42df91c418d7e04032994be03b86a9905fe35b))
+* updated stuff-B ([37e7656](https://github.com/AlexcFrench/ReleaseTest/commit/37e76562444bab3c67f32281b292474695b4c001))
+
 ## [1.1.2](https://github.com/AlexcFrench/ReleaseTest/compare/v1.1.1...v1.1.2) (2023-09-11)
 
 
