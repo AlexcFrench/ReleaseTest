@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/AlexcFrench/ReleaseTest/compare/v1.2.0...v1.2.1) (2023-09-12)
+
+
+### Bug Fixes
+
+* fixed RG naming so there aren't too many hyphens ([59406c4](https://github.com/AlexcFrench/ReleaseTest/commit/59406c4d7fea4d492d70411043ede18c7e9ca4ec))
+
 ## [1.2.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.1.3...v1.2.0) (2023-09-12)
 
 
