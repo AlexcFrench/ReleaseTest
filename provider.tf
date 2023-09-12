@@ -20,7 +20,7 @@ provider "azurerm" {
 }
 
 # Create a resource group
-resource "azurerm_resource_group" "example" {C
+resource "azurerm_resource_group" "example" {
   name     = "ResourceGroup-Release-"
   location = "UK South"
 }
