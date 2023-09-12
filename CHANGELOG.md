@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.1.3...v1.2.0) (2023-09-12)
+
+
+### Features
+
+* add variables ([3c0f83f](https://github.com/AlexcFrench/ReleaseTest/commit/3c0f83f4dae310a3d82d979a56312d07e02a1c5b))
+
 ## [1.1.3](https://github.com/AlexcFrench/ReleaseTest/compare/v1.1.2...v1.1.3) (2023-09-12)
 
 
