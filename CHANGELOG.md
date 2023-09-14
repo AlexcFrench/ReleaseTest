@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2](https://github.com/AlexcFrench/ReleaseTest/compare/v1.2.1...v1.2.2) (2023-09-14)
+
+
+### Bug Fixes
+
+* pub version A ([1f2ec6a](https://github.com/AlexcFrench/ReleaseTest/commit/1f2ec6a0245038659f730f526ba867b5d298b0d7))
+* Split provider file into 2 files ([aa25e75](https://github.com/AlexcFrench/ReleaseTest/commit/aa25e75684fb18cac38e8a8e344dbbbddc3e680a))
+
 ## [1.2.1](https://github.com/AlexcFrench/ReleaseTest/compare/v1.2.0...v1.2.1) (2023-09-12)
 
 
