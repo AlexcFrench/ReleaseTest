@@ -31,5 +31,7 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_workspace"></a> [workspace](#output\_workspace) | n/a |
 <!-- END_TF_DOCS -->
