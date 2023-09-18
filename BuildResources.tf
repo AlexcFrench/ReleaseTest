@@ -13,6 +13,13 @@ data "github_repository" "ThisGHRepo" {
   full_name = data.tfe_workspace.ThisRepoWorkspace.vcs_repo[0].identifier
 }
 
+data "github_release" "latestGHRelease" {
+  repository  = data.github_repository.ThisGHRepo.full_name
+  owner       = "alexcfrench@gmail.com"
+  retrieve_by = "latest"
+
+}
+
 output "vcsrepo" {
   value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo[0].branch
 }

@@ -25,6 +25,7 @@ No modules.
 | Name | Type |
 |------|------|
 | [azurerm_resource_group.example](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group) | resource |
+| [github_release.latestGHRelease](https://registry.terraform.io/providers/hashicorp/github/latest/docs/data-sources/release) | data source |
 | [github_repository.ThisGHRepo](https://registry.terraform.io/providers/hashicorp/github/latest/docs/data-sources/repository) | data source |
 | [tfe_workspace.ThisRepoWorkspace](https://registry.terraform.io/providers/hashicorp/tfe/latest/docs/data-sources/workspace) | data source |
 
