@@ -36,5 +36,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
+| <a name="output_vcsrepo"></a> [vcsrepo](#output\_vcsrepo) | n/a |
 | <a name="output_workspacename"></a> [workspacename](#output\_workspacename) | n/a |
 <!-- END_TF_DOCS -->

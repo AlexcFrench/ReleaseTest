@@ -12,3 +12,12 @@ data "tfe_workspace" "ThisRepoWorkspace" {
 output "workspacename" {
   value = terraform.workspace
 }
+
+output "vcsrepo" {
+  value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo
+}
+/*
+output "vcsblock1" {
+  value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo[branch]
+}
+*/
