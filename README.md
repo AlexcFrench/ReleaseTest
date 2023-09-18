@@ -13,6 +13,7 @@
 | Name | Version |
 |------|---------|
 | <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 3.73.0 |
+| <a name="provider_github"></a> [github](#provider\_github) | 5.37.0 |
 | <a name="provider_tfe"></a> [tfe](#provider\_tfe) | 0.48.0 |
 
 ## Modules
@@ -24,6 +25,7 @@ No modules.
 | Name | Type |
 |------|------|
 | [azurerm_resource_group.example](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group) | resource |
+| [github_repository.ThisGHRepo](https://registry.terraform.io/providers/hashicorp/github/latest/docs/data-sources/repository) | data source |
 | [tfe_workspace.ThisRepoWorkspace](https://registry.terraform.io/providers/hashicorp/tfe/latest/docs/data-sources/workspace) | data source |
 
 ## Inputs
