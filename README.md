@@ -38,5 +38,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
+| <a name="output_fullname"></a> [fullname](#output\_fullname) | n/a |
 | <a name="output_vcsrepo"></a> [vcsrepo](#output\_vcsrepo) | n/a |
 <!-- END_TF_DOCS -->

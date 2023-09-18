@@ -16,3 +16,7 @@ data "github_repository" "ThisGHRepo" {
 output "vcsrepo" {
   value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo[0].branch
 }
+
+output "fullname" {
+  value = data.github_repository.ThisGHRepo.full_name
+}
