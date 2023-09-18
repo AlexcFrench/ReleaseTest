@@ -8,16 +8,11 @@ data "tfe_workspace" "ThisRepoWorkspace" {
   name         = terraform.workspace
   organization = "mehere"
 }
-
-output "workspacename" {
-  value = terraform.workspace
-}
-
-output "vcsrepo" {
-  value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo
-}
 /*
-output "vcsblock1" {
-  value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo[branch]
+data "github_repository" "ThisGHRepo" {
+  full_name = data.tfe_workspace.ThisRepoWorkspace.vcs_repo
 }
 */
+output "vcsrepo" {
+  value = data.tfe_workspace.ThisRepoWorkspace.vcs_repo[0].branch
+}
