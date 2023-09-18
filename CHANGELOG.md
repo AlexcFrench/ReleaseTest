@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.4.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.3.1...v1.4.0) (2023-09-18)
+
+
+### Features
+
+* add TFC workspace var ([b991120](https://github.com/AlexcFrench/ReleaseTest/commit/b991120bcb0e60c67c620d7bd86d5cda8b0c98d0))
+* add TFC workspace var ([1df1238](https://github.com/AlexcFrench/ReleaseTest/commit/1df1238f18903ebe6a324465099fea3628cb7109))
+* add TFC workspace var ([e534575](https://github.com/AlexcFrench/ReleaseTest/commit/e534575146eb56a0526b87dd1482ae1f2aa999a0))
+
+
+### Bug Fixes
+
+* repo name ([f20bfd3](https://github.com/AlexcFrench/ReleaseTest/commit/f20bfd3ca5c6870a75a16c95cc3e8322593cd4d4))
+* repo name ([eaded8e](https://github.com/AlexcFrench/ReleaseTest/commit/eaded8e21a48480c9c94f3ee5be9cdd35bf0a03c))
+* repo name ([630a29f](https://github.com/AlexcFrench/ReleaseTest/commit/630a29fe62795294ff854b4cfbfe11a068b4ae81))
+* repo name ([6941538](https://github.com/AlexcFrench/ReleaseTest/commit/694153807b5d3a3aca65fa9b3ff487cdd75f9fe0))
+* repo name ([0dda0f7](https://github.com/AlexcFrench/ReleaseTest/commit/0dda0f7f9a06d5195938954f1626b105191d5ba0))
+* repo name ([73a51f5](https://github.com/AlexcFrench/ReleaseTest/commit/73a51f5e1b99ecf1101c8f5a83b94183c9d0e75e))
+* repo name ([6c504b5](https://github.com/AlexcFrench/ReleaseTest/commit/6c504b5584866cd2c07422db071ca939efdbd771))
+* repo name ([ebb5c53](https://github.com/AlexcFrench/ReleaseTest/commit/ebb5c53675814dda1a58df1317158d8cfe28e61e))
+* test ([f155091](https://github.com/AlexcFrench/ReleaseTest/commit/f1550919c9419e7046ea4a54518fd8c6e735f42b))
+
 ## [1.3.1](https://github.com/AlexcFrench/ReleaseTest/compare/v1.3.0...v1.3.1) (2023-09-18)
 
 
