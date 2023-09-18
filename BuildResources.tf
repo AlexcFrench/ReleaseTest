@@ -4,10 +4,11 @@ resource "azurerm_resource_group" "example" {
   location = "UK South"
 }
 
-locals {
-  workspace = terraform.workspace
+data "tfe_workspace" "ThisRepoWorkspace" {
+  name         = terraform.workspace
+  organization = "AlexCFrench"
 }
 
-output "workspace" {
-  value = local.workspace
+output "workspacename" {
+  value = terraform.workspace
 }
