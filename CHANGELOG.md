@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/AlexcFrench/ReleaseTest/compare/v1.3.0...v1.3.1) (2023-09-18)
+
+
+### Bug Fixes
+
+* manual update ([4cfaf29](https://github.com/AlexcFrench/ReleaseTest/commit/4cfaf2964fa32b4c16ae1a8c83d19058b4b7efc1))
+
 ## [1.3.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.2.2...v1.3.0) (2023-09-18)
 
 
