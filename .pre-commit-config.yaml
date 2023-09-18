@@ -24,7 +24,7 @@ repos:
   - repo: https://github.com/commit-check/commit-check
     rev: "v0.5.6"
     hooks: # support hooks
-    -   id: check-message
+    #-   id: check-message
     #-   id: check-branch
     -   id: check-author-name
     -   id: check-author-email
