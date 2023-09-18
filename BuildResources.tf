@@ -18,7 +18,7 @@ locals {
 }
 
 data "github_release" "latestGHRelease" {
-  repository  = data.github_repository.ThisGHRepo.full_name
+  repository  = local.GHowner[1]
   owner       = local.GHowner[0]
   retrieve_by = "latest"
 
