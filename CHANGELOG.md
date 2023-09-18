@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.5.0...v1.6.0) (2023-09-18)
+
+
+### Features
+
+* massive update ([262c198](https://github.com/AlexcFrench/ReleaseTest/commit/262c1988855c23327f662391bea4a44eec1ab29f))
+
 ## [1.5.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.4.0...v1.5.0) (2023-09-18)
 
 
