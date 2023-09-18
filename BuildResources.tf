@@ -1,6 +1,6 @@
 # Create a resource group
 resource "azurerm_resource_group" "example" {
-  name     = join("-", [var.environment, "ResourceGroup-Release", "manuallyfixed-update"])
+  name     = join("-", [var.environment, "ResourceGroup-Release", "RollingForward"])
   location = "UK South"
   tags = {
     "Release Version" = data.github_release.latestGHRelease.release_tag
