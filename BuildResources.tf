@@ -27,3 +27,7 @@ output "vcsrepo" {
 output "fullname" {
   value = data.github_repository.ThisGHRepo.full_name
 }
+
+output "release_tag" {
+  value = data.github_release.latestGHRelease.release_tag
+}
