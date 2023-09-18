@@ -6,7 +6,7 @@ resource "azurerm_resource_group" "example" {
 
 data "tfe_workspace" "ThisRepoWorkspace" {
   name         = terraform.workspace
-  organization = "AlexCFrench"
+  organization = "mehere"
 }
 
 output "workspacename" {
