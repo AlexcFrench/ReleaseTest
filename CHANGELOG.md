@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.3.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.2.2...v1.3.0) (2023-09-18)
+
+
+### Features
+
+* Added precommit checks ([aa6c376](https://github.com/AlexcFrench/ReleaseTest/commit/aa6c37633f07aac1329ccd1562f3d6b67fbbc5c8))
+* Added precommit checks ([32af098](https://github.com/AlexcFrench/ReleaseTest/commit/32af09893b4822a28a1820581893ba1ebc767b55))
+
+
+### Bug Fixes
+
+* base release ([43103b0](https://github.com/AlexcFrench/ReleaseTest/commit/43103b021da685898144a1f8ce56ffd53fb51c73))
+* duff update added ([274c365](https://github.com/AlexcFrench/ReleaseTest/commit/274c3659745eb9ac213c33a0ec057fd7b0906f21))
+* Release of branch 4 - C ([ab0eed0](https://github.com/AlexcFrench/ReleaseTest/commit/ab0eed0dd1a796fc4c369d01efc2a2e2500a097c))
+
 ## [1.2.2](https://github.com/AlexcFrench/ReleaseTest/compare/v1.2.1...v1.2.2) (2023-09-14)
 
 
