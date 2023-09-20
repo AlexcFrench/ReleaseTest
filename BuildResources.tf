@@ -4,6 +4,7 @@ resource "azurerm_resource_group" "example" {
   location = "UK South"
   tags = {
     "Release Version" = data.github_release.latestGHRelease.release_tag
+    "AddedAnotherTag" = "AnotherTag"
   }
 }
 
