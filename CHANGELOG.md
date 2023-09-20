@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.6.2...v1.7.0) (2023-09-20)
+
+
+### Features
+
+* Adding second change ([86e4a22](https://github.com/AlexcFrench/ReleaseTest/commit/86e4a22cd76565c6816c8b326c7fd1ef9c4757db))
+
 ## [1.6.2](https://github.com/AlexcFrench/ReleaseTest/compare/v1.6.1...v1.6.2) (2023-09-20)
 
 
