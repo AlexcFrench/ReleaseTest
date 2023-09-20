@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/AlexcFrench/ReleaseTest/compare/v1.6.0...v1.6.1) (2023-09-20)
+
+
+### Bug Fixes
+
+* After Dirty Change ([b984d93](https://github.com/AlexcFrench/ReleaseTest/commit/b984d933f22a91fcaff89fa3e60f993923d50fa2))
+
 ## [1.6.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.5.0...v1.6.0) (2023-09-18)
 
 
