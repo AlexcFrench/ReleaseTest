@@ -12,7 +12,7 @@
 
 | Name | Version |
 |------|---------|
-| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 3.73.0 |
+| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 3.72.0 |
 | <a name="provider_github"></a> [github](#provider\_github) | 5.37.0 |
 | <a name="provider_tfe"></a> [tfe](#provider\_tfe) | 0.48.0 |
 
