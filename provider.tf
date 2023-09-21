@@ -23,3 +23,6 @@ provider "azurerm" {
   tenant_id     = "2fc87606-f7b2-4dc1-81a0-71e4dd53584d"
 
 }
+
+
+#added line
