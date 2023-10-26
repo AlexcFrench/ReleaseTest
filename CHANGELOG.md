@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.8.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.7.0...v1.8.0) (2023-10-26)
+
+
+### Features
+
+* Changed Name to Kane ([03d3fd3](https://github.com/AlexcFrench/ReleaseTest/commit/03d3fd36ccbe71f6fc6d3e6bd9e9b6c70064e5b9))
+
+
+### Bug Fixes
+
+* adding something to amend ([1c77edb](https://github.com/AlexcFrench/ReleaseTest/commit/1c77edb3a346cf9c3c6f0cd757f1542c0e144e09))
+
 ## [1.7.0](https://github.com/AlexcFrench/ReleaseTest/compare/v1.6.2...v1.7.0) (2023-09-20)
 
 
